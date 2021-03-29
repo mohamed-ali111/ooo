@@ -1,0 +1,51 @@
+.nav-link{
+    margin-right: 63px;
+    font-size: 20px;
+    padding: 33px;
+    color: white !important;
+}
+.navbar-brand{
+    margin-right: 61px
+}
+.mmm{
+    width: 100px;
+    height: 100px;
+}
+.bg-dark {
+    background-color: #ff7c00!important;
+}
+.fff{
+    direction:rtl;
+}
+.addrees{
+    text-align: center;
+    margin-top: 10px;
+    color: blue;
+}
+.bg-secondary{
+    background-image: linear-gradient(to right,#0d0dbb,#ca6262);
+}
+.sss{
+    width: 100px;
+    height: 100px;
+}
+.ahmed{
+    margin-left: 71px;
+}
+.text-white{
+    line-height: 30px;
+}
+.rrr{
+    font-size: 40px;
+}
+.pt-1, .py-1 {
+    padding-top: 2.25rem!important;
+}
+.text-dark {
+    color: #26b774!important;
+    font-size: 27px;
+}
+p.lll{
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+}
